@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
 * Студент: [Максим Шеин](https://up.htmlacademy.ru/ecmascript/16/user/907509).
-* Наставник: `Неизвестно`.
+* Наставник: <a href="https://htmlacademy.ru/profile/id1069033" rel="nofollow">Сергей Пирожков</a>.
 
 ---
 
