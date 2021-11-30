@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
 * Студент: [Максим Шеин](https://up.htmlacademy.ru/ecmascript/16/user/907509).
-* Наставник: [Сергей Рожков](https://htmlacademy.ru/profile/id1069033).
+* Наставник: [Максим Деев](https://htmlacademy.ru/profile/id685777).
 
 ---
 
